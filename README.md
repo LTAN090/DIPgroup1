@@ -1,6 +1,8 @@
 # DIPgroup1
 
-TO DO LIST:
+WEEK 2 MINUTES
+
+OVERALL TO DO LIST:
 
 1. Half 2D board (fake 3D grid board) -> continuous movement 
                                       -> coordination based interactive range of the object
@@ -15,5 +17,6 @@ TO DO LIST:
 
 EXTRA: power-ups -> additional button for speed vs. manually increase speed 
 
-FIRST STEP FOR PROGRAMMERS: player movement, blockage will stop the player
+
+by Week 3: player movement, blockage will stop the player
 
