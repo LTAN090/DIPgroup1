@@ -1,8 +1,5 @@
 # DIPgroup1
 
-- 👋 Hi, I’m @rebs-ctrl
-
-<!---
 TO DO LIST:
 
 1. Half 2D board (fake 3D grid board) -> continuous movement 
@@ -20,5 +17,3 @@ EXTRA: power-ups -> additional button for speed vs. manually increase speed
 
 FIRST STEP FOR PROGRAMMERS: player movement, blockage will stop the player
 
-
---->
