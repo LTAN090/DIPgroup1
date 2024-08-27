@@ -18,5 +18,5 @@
 EXTRA: power-ups -> additional button for speed vs. manually increase speed 
 
 
-by Week 3: player movement, blockage will stop the player
+- [x] by Week 3: player movement, blockage will stop the player
 
