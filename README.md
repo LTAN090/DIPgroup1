@@ -19,5 +19,5 @@ EXTRA: power-ups -> additional button for speed vs. manually increase speed
 
 
 - [x] by Week 3: player movement, blockage will stop the player (Yuheng)
-- [ ] by Week 7: random customer-random movement (Rebeca)
+- [x] by Week 7: random customer-random movement (Rebeca)
 
